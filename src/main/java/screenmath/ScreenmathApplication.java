@@ -1,12 +1,12 @@
-package br.com.alura.screenmath;
+package screenmath;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import br.com.alura.screenmath.principal.Principal;
-import br.com.alura.screenmath.repository.SerieRepository;
+import screenmath.principal.Principal;
+import screenmath.repository.SerieRepository;
 
 
 @SpringBootApplication

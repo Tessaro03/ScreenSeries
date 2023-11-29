@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.service;
+package screenmath.service;
 
 import java.io.IOException;
 import java.net.URI;

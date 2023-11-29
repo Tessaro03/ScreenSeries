@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.service;
+package screenmath.service;
 
 public interface IcoverteDados {
     

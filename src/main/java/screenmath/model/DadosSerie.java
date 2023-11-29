@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.model;
+package screenmath.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

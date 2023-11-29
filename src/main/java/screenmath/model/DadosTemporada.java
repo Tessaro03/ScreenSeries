@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.model;
+package screenmath.model;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.model;
+package screenmath.model;
 
 public enum Genero {
     AÇÃO("Action", "Ação"),

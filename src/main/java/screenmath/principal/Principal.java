@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.principal;
+package screenmath.principal;
 
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -8,16 +8,16 @@ import java.util.Optional;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-import br.com.alura.screenmath.model.DadosEpisodio;
-import br.com.alura.screenmath.model.DadosSerie;
-import br.com.alura.screenmath.model.DadosTemporada;
-import br.com.alura.screenmath.model.Episodio;
-import br.com.alura.screenmath.model.Genero;
+import screenmath.model.DadosEpisodio;
+import screenmath.model.DadosSerie;
+import screenmath.model.DadosTemporada;
+import screenmath.model.Episodio;
+import screenmath.model.Genero;
 
-import br.com.alura.screenmath.model.Serie;
-import br.com.alura.screenmath.repository.SerieRepository;
-import br.com.alura.screenmath.service.ConsumoAPI;
-import br.com.alura.screenmath.service.ConverteDados;
+import screenmath.model.Serie;
+import screenmath.repository.SerieRepository;
+import screenmath.service.ConsumoAPI;
+import screenmath.service.ConverteDados;
 
 public class Principal {
     

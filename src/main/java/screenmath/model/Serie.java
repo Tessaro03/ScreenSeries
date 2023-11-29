@@ -1,11 +1,11 @@
-package br.com.alura.screenmath.model;
+package screenmath.model;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.OptionalDouble;
 
 
-import br.com.alura.screenmath.service.ConsultaChatGPT;
+import screenmath.service.ConsultaChatGPT;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

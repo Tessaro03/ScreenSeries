@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.service;
+package screenmath.service;
 
 import com.theokanning.openai.completion.CompletionRequest;
 import com.theokanning.openai.service.OpenAiService;

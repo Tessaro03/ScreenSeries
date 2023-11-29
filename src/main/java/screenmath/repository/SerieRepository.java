@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.repository;
+package screenmath.repository;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,9 +6,9 @@ import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import br.com.alura.screenmath.model.Episodio;
-import br.com.alura.screenmath.model.Genero;
-import br.com.alura.screenmath.model.Serie;
+import screenmath.model.Episodio;
+import screenmath.model.Genero;
+import screenmath.model.Serie;
 
 public interface SerieRepository extends JpaRepository<Serie, Long>{
     
